@@ -15,7 +15,7 @@ namespace CIS501_Project1
 
         /// <summary>
         /// The list of all stocks in the provided file
-        /// </summary>
+        /// </summary>//
         public static List<Stock> stocks = new List<Stock>();
 
         /// <summary>
