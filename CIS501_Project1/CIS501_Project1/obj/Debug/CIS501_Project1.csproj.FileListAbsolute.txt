@@ -7,3 +7,6 @@ C:\Users\jacob\CIS300\IMakeHuffman\CIS501_Project1\CIS501_Project1\obj\Debug\CIS
 C:\Users\jacob\CIS501\Ticker501\CIS501_Project1\CIS501_Project1\bin\Debug\CIS501_Project1.exe.config
 C:\Users\jacob\CIS501\Ticker501\CIS501_Project1\CIS501_Project1\obj\Debug\CIS501_Project1.exe
 C:\Users\jacob\CIS501\Ticker501\CIS501_Project1\CIS501_Project1\obj\Debug\CIS501_Project1.pdb
+C:\Users\jacob\CIS501\Ticker501\CIS501_Project1\CIS501_Project1\bin\Debug\CIS501_Project1.exe
+C:\Users\jacob\CIS501\Ticker501\CIS501_Project1\CIS501_Project1\bin\Debug\CIS501_Project1.pdb
+C:\Users\jacob\CIS501\Ticker501\CIS501_Project1\CIS501_Project1\obj\Debug\CIS501_Project1.csprojResolveAssemblyReference.cache

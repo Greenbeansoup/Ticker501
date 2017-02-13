@@ -257,7 +257,7 @@ namespace CIS501_Project1
             foreach(Stock s in stocks)
             {
                 int num = rand.Next(min, max);
-                int op = operation.Next(0, 2);//Determines if the stock is going up or down.
+                int op = operation.Next(0, 3);//Determines if the stock is going up or down.
                 if (op == 0)                  
                 {
                     num = -num;
